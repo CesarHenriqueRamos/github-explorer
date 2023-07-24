@@ -1,0 +1,13 @@
+.container-list{
+    padding: 20px;
+}
+.title-list{
+    color: #444;
+    font-size: 18px;
+}
+.box-list{
+    list-style: none;
+    padding: 20px;
+
+    
+}
